@@ -1,0 +1,12 @@
+GFT Start #5 Java
+
+Módulo do Bootcamp/horas de aulas 
+
+Módulo I - Fundamentos/13h
+Módulo II - Setup/4h
+Módulo III - Java Fundamental/15h
+Módulo IV - Java Essencial/9h
+Módulo V - Arquitetura de Sistemas/3h
+Módulo VI - Java Avançado/5h
+
+Total: 49 horas de aulas
